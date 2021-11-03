@@ -1,0 +1,201 @@
+V_Punk,Gender,Attributes
+"['VPunk', '0']",Female,"['Green Eye Shadow', 'Earring', 'Blonde Bob']"
+"['VPunk', '1']",Male,"['Smile', 'Mohawk']"
+"['VPunk', '2']",Female,['Wild Hair']
+"['VPunk', '3']",Male,"['Wild Hair', 'Nerd Glasses', 'Pipe']"
+"['VPunk', '4']",Male,"['Big Shades', 'Wild Hair', 'Earring', 'Goat']"
+"['VPunk', '5']",Female,"['Purple Eye Shadow', 'Half Shaved', 'Earring']"
+"['VPunk', '6']",Male,['Do-rag']
+"['VPunk', '7']",Female,"['Wild White Hair', 'Spots', 'Clown Eyes Blue']"
+"['VPunk', '8']",Male,"['Messy Hair', 'Luxurious Beard']"
+"['VPunk', '9']",Male,"['Clown Nose', 'Police Cap', 'Big Beard']"
+"['VPunk', '10']",Female,"['Blue Eye Shadow', 'Mohawk']"
+"['VPunk', '11']",Female,"['Black Lipstick', 'Clown Eyes Green', 'Straight Hair Dark']"
+"['VPunk', '12']",Female,"['Blonde Short', 'Purple Lipstick']"
+"['VPunk', '13']",Female,"['Big Shades', 'Black Lipstick', 'Straight Hair Blonde']"
+"['VPunk', '14']",Female,"['Pipe', 'Pilot Helmet', 'Hot Lipstick']"
+"['VPunk', '15']",Male,"['Luxurious Beard', 'Wild Hair', 'Regular Shades']"
+"['VPunk', '16']",Male,"['Stringy Hair', 'Earring', 'Small Shades']"
+"['VPunk', '17']",Male,"['Frown', 'Mohawk']"
+"['VPunk', '18']",Male,"['Eye Mask', 'Muttonchops']"
+"['VPunk', '19']",Female,"['Bandana', 'Horned Rim Glasses', 'Hot Lipstick']"
+"['VPunk', '20']",Male,['Crazy Hair']
+"['VPunk', '21']",Male,"['Messy Hair', 'Classic Shades', 'Earring']"
+"['VPunk', '22']",Female,"['Pilot Helmet', 'Purple Lipstick']"
+"['VPunk', '23']",Male,"['Handlebars', 'Earring', 'Do-rag']"
+"['VPunk', '24']",Male,"['Smile', 'Mohawk Dark']"
+"['VPunk', '25']",Female,['Wild White Hair']
+"['VPunk', '26']",Female,['Dark Hair']
+"['VPunk', '27']",Male,"['Peak Spike', 'Earring']"
+"['VPunk', '28']",Male,"['Big Shades', 'Crazy Hair']"
+"['VPunk', '29']",Female,"['Horned Rim Glasses', 'Half Shaved', 'Earring']"
+"['VPunk', '30']",Male,"['Normal Beard Black', 'Cap']"
+"['VPunk', '31']",Female,['Stringy Hair']
+"['VPunk', '32']",Male,"['Frown', 'VR']"
+"['VPunk', '33']",Male,['Peak Spike']
+"['VPunk', '34']",Female,"['Frumpy Hair', 'Purple Lipstick']"
+"['VPunk', '35']",Male,"['Cigarette', 'Peak Spike', 'Earring', 'Horned Rim Glasses', 'Normal Beard']"
+"['VPunk', '36']",Female,['Red Mohawk']
+"['VPunk', '37']",Female,"['Cap', 'Clown Eyes Blue']"
+"['VPunk', '38']",Female,"['Frumpy Hair', 'Classic Shades', 'Purple Lipstick']"
+"['VPunk', '39']",Male,"['Frown', 'Shaved Head', 'Regular Shades']"
+"['VPunk', '40']",Male,"['Bandana', 'Chinstrap', 'Smile']"
+"['VPunk', '41']",Male,"['Muttonchops', 'Wild Hair', 'Clown Eyes Green']"
+"['VPunk', '42']",Female,"['Wild Hair', 'Cigarette']"
+"['VPunk', '43']",Female,['Half Shaved']
+"['VPunk', '44']",Male,['Messy Hair']
+"['VPunk', '45']",Male,"['Earring', 'Mole']"
+"['VPunk', '46']",Female,"['Purple Lipstick', 'Straight Hair Dark']"
+"['VPunk', '47']",Male,['Knitted Cap']
+"['VPunk', '48']",Male,"['Big Shades', 'Mohawk']"
+"['VPunk', '49']",Female,"['Bandana', 'Purple Eye Shadow']"
+"['VPunk', '50']",Male,"['Spots', 'Fedora']"
+"['VPunk', '51']",Male,"['Muttonchops', 'Wild Hair', 'Earring']"
+"['VPunk', '52']",Male,"['Shadow Beard', 'Earring', 'Nerd Glasses', 'Knitted Cap']"
+"['VPunk', '53']",Female,"['Big Shades', 'Straight Hair']"
+"['VPunk', '54']",Male,['Hoodie']
+"['VPunk', '55']",Male,['Eye Patch']
+"['VPunk', '56']",Male,['Shaved Head']
+"['VPunk', '57']",Male,['Headband']
+"['VPunk', '58']",Male,"['Normal Beard Black', 'Hoodie']"
+"['VPunk', '59']",Male,"['Muttonchops', 'Cowboy Hat']"
+"['VPunk', '60']",Female,"['Stringy Hair', 'Purple Lipstick']"
+"['VPunk', '61']",Female,['Dark Hair']
+"['VPunk', '62']",Female,"['Hot Lipstick', 'Earring', 'Mohawk Dark', 'Clown Eyes Blue']"
+"['VPunk', '63']",Male,"['Earring', 'Shaved Head', 'Small Shades']"
+"['VPunk', '64']",Female,"['Straight Hair Blonde', 'Purple Lipstick']"
+"['VPunk', '65']",Female,"['Eye Mask', 'Headband']"
+"['VPunk', '66']",Female,['Tassle Hat']
+"['VPunk', '67']",Female,"['Half Shaved', 'Purple Lipstick', '3D Glasses']"
+"['VPunk', '68']",Male,"['Nerd Glasses', 'Do-rag']"
+"['VPunk', '69']",Male,"['Normal Beard Black', 'Fedora']"
+"['VPunk', '70']",Female,"['Crazy Hair', 'Regular Shades', 'Earring', 'Cigarette']"
+"['VPunk', '71']",Female,"['Green Eye Shadow', 'Half Shaved', 'Purple Lipstick']"
+"['VPunk', '72']",Male,"['Fedora', 'Earring', 'Nerd Glasses', 'Normal Beard']"
+"['VPunk', '73']",Female,"['Black Lipstick', 'Bandana', 'Earring']"
+"['VPunk', '74']",Male,"['Shadow Beard', 'Earring', 'Mohawk Dark']"
+"['VPunk', '75']",Male,"['Shadow Beard', 'Knitted Cap', 'Eye Patch']"
+"['VPunk', '76']",Male,"['Cigarette', 'Do-rag']"
+"['VPunk', '77']",Male,"['Stringy Hair', 'Handlebars']"
+"['VPunk', '78']",Male,"['Handlebars', 'Knitted Cap', 'Eye Patch']"
+"['VPunk', '79']",Male,"['Normal Beard', 'Mohawk Dark']"
+"['VPunk', '80']",Male,"['Wild Hair', 'Mustache']"
+"['VPunk', '81']",Male,"['Headband', 'Small Shades']"
+"['VPunk', '82']",Male,['Headband']
+"['VPunk', '83']",Male,"['Vape', 'Shaved Head', 'Small Shades']"
+"['VPunk', '84']",Male,"['Messy Hair', 'Big Shades', 'Earring']"
+"['VPunk', '85']",Female,['Crazy Hair']
+"['VPunk', '86']",Female,"['Knitted Cap', 'Green Eye Shadow', 'Hot Lipstick', 'Earring']"
+"['VPunk', '87']",Male,"['Hoodie', 'Earring']"
+"['VPunk', '88']",Female,"['Cap', 'Hot Lipstick']"
+"['VPunk', '89']",Female,['Choker']
+"['VPunk', '90']",Male,"['Hoodie', 'Eye Patch']"
+"['VPunk', '91']",Female,"['Clown Nose', 'Straight Hair']"
+"['VPunk', '92']",Female,"['Pink With Hat', 'Purple Lipstick', 'Nerd Glasses']"
+"['VPunk', '93']",Female,['Bandana']
+"['VPunk', '94']",Female,"['Pink With Hat', 'Regular Shades', 'Earring']"
+"['VPunk', '95']",Male,"['Earring', 'Mohawk']"
+"['VPunk', '96']",Female,['Blonde Bob']
+"['VPunk', '97']",Male,['Wild Hair']
+"['VPunk', '98']",Female,"['Black Lipstick', 'Welding Goggles', 'Dark Hair']"
+"['VPunk', '99']",Male,"['Cigarette', 'Hoodie']"
+"['VPunk', '100']",Female,['Tassle Hat']
+"['VPunk', '101']",Male,"['Police Cap', 'Nerd Glasses']"
+"['VPunk', '102']",Male,"['Vampire Hair', 'Luxurious Beard']"
+"['VPunk', '103']",Female,"['Black Lipstick', 'Green Eye Shadow', 'Blonde Bob']"
+"['VPunk', '104']",Male,"['Normal Beard Black', 'Earring', 'Crazy Hair', 'Eye Patch']"
+"['VPunk', '105']",Male,['Mohawk Thin']
+"['VPunk', '106']",Female,['Straight Hair Blonde']
+"['VPunk', '107']",Male,['Headband']
+"['VPunk', '108']",Female,"['Black Lipstick', 'Headband']"
+"['VPunk', '109']",Male,"['Handlebars', 'Fedora', 'Earring']"
+"['VPunk', '110']",Female,"['Purple Lipstick', 'Earring', 'Mohawk Dark', 'Cigarette']"
+"['VPunk', '111']",Male,"['Handlebars', 'Knitted Cap']"
+"['VPunk', '112']",Male,"['Bandana', 'Earring', 'Horned Rim Glasses', 'Big Beard']"
+"['VPunk', '113']",Male,['Mohawk']
+"['VPunk', '114']",Female,['Red Mohawk']
+"['VPunk', '115']",Female,"['Half Shaved', 'Earring']"
+"['VPunk', '116']",Female,"['Black Lipstick', 'Tiara', 'Earring', 'Clown Eyes Blue']"
+"['VPunk', '117']",Zombie,"['Messy Hair', 'Front Beard Dark']"
+"['VPunk', '118']",Female,"['Black Lipstick', 'Bandana']"
+"['VPunk', '119']",Male,"['Cap', 'Earring']"
+"['VPunk', '120']",Female,"['Tassle Hat', 'Big Shades']"
+"['VPunk', '121']",Female,"['Tiara', 'Purple Lipstick']"
+"['VPunk', '122']",Male,"['Cigarette', 'Mohawk']"
+"['VPunk', '123']",Female,"['Wild White Hair', 'Spots']"
+"['VPunk', '124']",Male,"['Normal Beard Black', 'Peak Spike', 'Earring']"
+"['VPunk', '125']",Female,"['Tassle Hat', 'Big Shades', 'Purple Lipstick']"
+"['VPunk', '126']",Male,"['Cigarette', 'Earring', 'Headband', 'Eye Patch']"
+"['VPunk', '127']",Female,"['Clown Eyes Green', 'Stringy Hair']"
+"['VPunk', '128']",Male,"['Police Cap', 'Chinstrap', 'Vape', 'Mole']"
+"['VPunk', '129']",Male,"['Cigarette', 'Cap Forward', 'Gold Chain', 'Horned Rim Glasses']"
+"['VPunk', '130']",Male,['Mohawk']
+"['VPunk', '131']",Female,"['Hot Lipstick', 'Straight Hair Dark']"
+"['VPunk', '132']",Male,['Mohawk Thin']
+"['VPunk', '133']",Male,"['Chinstrap', 'Purple Hair', 'Pipe']"
+"['VPunk', '134']",Male,['Police Cap']
+"['VPunk', '135']",Male,['Cap Forward']
+"['VPunk', '136']",Male,"['Shadow Beard', 'Shaved Head', 'Clown Eyes Green']"
+"['VPunk', '137']",Male,['Messy Hair']
+"['VPunk', '138']",Male,"['Stringy Hair', 'Horned Rim Glasses']"
+"['VPunk', '139']",Male,"['Do-rag', 'Eye Patch']"
+"['VPunk', '140']",Female,['Hot Lipstick']
+"['VPunk', '141']",Male,"['Chinstrap', 'Headband', '3D Glasses']"
+"['VPunk', '142']",Male,"['Mohawk', 'Regular Shades']"
+"['VPunk', '143']",Male,"['Beanie', 'Horned Rim Glasses']"
+"['VPunk', '144']",Male,"['Cigarette', 'Frumpy Hair', 'Luxurious Beard']"
+"['VPunk', '145']",Male,['Wild Hair']
+"['VPunk', '146']",Male,"['Earring', 'Mohawk']"
+"['VPunk', '147']",Male,"['Mohawk Thin', 'Regular Shades']"
+"['VPunk', '148']",Male,['Hoodie']
+"['VPunk', '149']",Male,"['Messy Hair', 'Luxurious Beard', 'Big Shades']"
+"['VPunk', '150']",Female,"['Purple Lipstick', 'Earring']"
+"['VPunk', '151']",Male,"['Stringy Hair', 'VR']"
+"['VPunk', '152']",Male,"['Clown Eyes Green', 'Mohawk Dark']"
+"['VPunk', '153']",Male,"['Eye Mask', 'Cap', 'Earring']"
+"['VPunk', '154']",Male,"['Hoodie', 'Shadow Beard', 'Earring']"
+"['VPunk', '155']",Male,"['Clown Nose', 'Clown Hair Green']"
+"['VPunk', '156']",Male,"['Cap Forward', 'Small Shades']"
+"['VPunk', '157']",Male,"['Cigarette', 'Cap']"
+"['VPunk', '158']",Male,"['Wild Hair', 'Goat', 'Regular Shades']"
+"['VPunk', '159']",Male,"['Stringy Hair', 'Earring']"
+"['VPunk', '160']",Female,"['Pigtails', 'Purple Lipstick', 'Clown Eyes Blue']"
+"['VPunk', '161']",Female,"['Hot Lipstick', 'Frumpy Hair']"
+"['VPunk', '162']",Male,"['Frumpy Hair', 'Normal Beard Black', 'Horned Rim Glasses']"
+"['VPunk', '163']",Male,"['Shaved Head', 'Eye Patch']"
+"['VPunk', '164']",Female,"['Stringy Hair', 'VR']"
+"['VPunk', '165']",Male,"['Cigarette', 'Front Beard Dark', 'Mohawk Dark']"
+"['VPunk', '166']",Male,"['Shaved Head', 'Regular Shades']"
+"['VPunk', '167']",Female,"['Headband', 'Hot Lipstick']"
+"['VPunk', '168']",Female,"['Blue Eye Shadow', 'Silver Chain', 'Blonde Bob']"
+"['VPunk', '169']",Female,"['Wild White Hair', 'Hot Lipstick', 'Regular Shades']"
+"['VPunk', '170']",Male,"['Peak Spike', 'Classic Shades', 'Mole']"
+"['VPunk', '171']",Male,"['Stringy Hair', 'Earring', 'Mole']"
+"['VPunk', '172']",Female,"['Purple Lipstick', 'Blonde Bob', '3D Glasses']"
+"['VPunk', '173']",Female,"['Mole', 'Pipe', 'Messy Hair', 'Hot Lipstick', 'Clown Eyes Blue']"
+"['VPunk', '174']",Male,"['Wild Hair', 'Earring', 'Horned Rim Glasses']"
+"['VPunk', '175']",Male,"['Cap', 'Big Shades']"
+"['VPunk', '176']",Female,"['Regular Shades', 'Wild Hair', 'Purple Lipstick', 'Earring']"
+"['VPunk', '177']",Male,"['Bandana', 'Luxurious Beard']"
+"['VPunk', '178']",Male,['Fedora']
+"['VPunk', '179']",Male,"['Mohawk Thin', 'Shadow Beard', 'Classic Shades']"
+"['VPunk', '180']",Female,"['Pilot Helmet', 'Hot Lipstick']"
+"['VPunk', '181']",Male,['Mohawk']
+"['VPunk', '182']",Male,['Peak Spike']
+"['VPunk', '183']",Male,['Shadow Beard']
+"['VPunk', '184']",Female,"['Green Eye Shadow', 'Blonde Bob']"
+"['VPunk', '185']",Female,"['Wild White Hair', 'Hot Lipstick']"
+"['VPunk', '186']",Male,"['Mustache', 'Crazy Hair']"
+"['VPunk', '187']",Female,['Straight Hair']
+"['VPunk', '188']",Male,"['Peak Spike', 'Earring', 'Nerd Glasses']"
+"['VPunk', '189']",Female,"['Mohawk Thin', 'Purple Lipstick']"
+"['VPunk', '190']",Male,['Headband']
+"['VPunk', '191']",Female,['Mohawk']
+"['VPunk', '192']",Male,"['Clown Nose', 'Mohawk Thin', 'Earring', 'Nerd Glasses']"
+"['VPunk', '193']",Female,"['Tassle Hat', 'Green Eye Shadow', 'Earring']"
+"['VPunk', '194']",Male,"['Wild Hair', 'Clown Eyes Green']"
+"['VPunk', '195']",Female,"['Straight Hair Blonde', 'Nerd Glasses']"
+"['VPunk', '196']",Female,"['Tassle Hat', 'Big Shades', 'Hot Lipstick']"
+"['VPunk', '197']",Male,"['Frumpy Hair', 'Eye Patch']"
+"['VPunk', '198']",Male,"['Beanie', 'Luxurious Beard']"
+"['VPunk', '199']",Female,"['Blonde Short', 'Classic Shades']"
